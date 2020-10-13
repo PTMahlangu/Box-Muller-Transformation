@@ -1,0 +1,2 @@
+# Box-Muller-Transformation
+A Box Muller transform takes a continuous, two dimensional uniform distribution and transforms it to a normal distribution.  It is widely used in statistical sampling, and is an easy to run, elegant way to come up with a standard normal model. In fact, since it can be used to generate normally distributed random numbers, it was originally developed as a better and computationally efficient alternative to inverse sampling.
